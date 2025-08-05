@@ -3,7 +3,7 @@ _commit: v0.2.16
 _src_path: gh:jlevy/simple-modern-uv
 package_author_email: kh@aktis.org
 package_author_name: kh
-package_description: changeme
+package_description: ''
 package_github_org: khazelton
 package_module: uvproj_01
 package_name: uvproj-01

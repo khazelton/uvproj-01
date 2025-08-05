@@ -7,7 +7,7 @@ Repository = "https://github.com/khazelton/uvproj-01"
 
 [project]
 name = "uvproj-01"
-description = "changeme"
+description = ""
 authors = [
     { name="kh", email="kh@aktis.org" },
 ]
