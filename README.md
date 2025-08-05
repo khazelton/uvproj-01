@@ -1,10 +1,9 @@
 # uvproj-01
 
-👉\[\[\[**This is the initial readme for your
-[simple-modern-uv](https://github.com/jlevy/simple-modern-uv) template.** Fill it in and
-delete this message!
+👉**This is the initial readme for your
+[simple-modern-uv](https://github.com/jlevy/simple-modern-uv) template.**
 Below are general setup instructions that you may remove or keep and adapt for your
-project.\]\]\]
+project.
 
 * * *
 
